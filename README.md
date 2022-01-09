@@ -10,7 +10,7 @@ To review code for co. website and clean up the HTML to be more logical & semant
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+(COMING SOON)
 
 ## Contribution
 Made with ❤️ by [Mark Healy]
