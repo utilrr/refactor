@@ -43,7 +43,7 @@ body {
 }
 /* End of the header section */
 
-/* Start of general (global?) stylinng for text and linnks */
+/* Start of general (global?) stylinng for text and linnks. Should this precede the header styles? */
 a {
     color: #ffffff;
     text-decoration: none;
