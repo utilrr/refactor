@@ -12,7 +12,7 @@ To review code for Horiseon company website and tighten up the HTML to be more l
 * sweat
 * tears
 
-## Website
+## Website (Deployed Application)
 https://utilrr.github.io/refactor/
 
 ## My Repository
@@ -23,3 +23,7 @@ https://github.com/utilrr/refactor/
 Made with ❤️ by [Mark Healy]
 
 ### ©️2022 
+
+![Horiseon_top] (file:///Users/markhealy/code/github/utilrr/refactor/assets/images/Horiseon_top.png)
+![Horiseon_middle] (file:///Users/markhealy/code/github/utilrr/refactor/assets/images/Horiseon_middle.png)
+![Horiseon_bottom] (file:///Users/markhealy/code/github/utilrr/refactor/assets/images/Horiseon_bottom.png)
