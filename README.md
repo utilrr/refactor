@@ -3,7 +3,7 @@ Refactor code challenge
 
 
 ## Purpose
-To review code for co. website and clean up the HTML to be more logical & semantic, to inproved SEO by adding alt tags to their images and other things.
+To review code for Horiseon company website and tighten up the HTML to be more logical & semantic, and to inprove SEO by adding alt tags to their images and other graphics. Also reordering css and adding comments.
 
 ## Built With
 * HTML
