@@ -8,9 +8,16 @@ To review code for Horiseon company website and tighten up the HTML to be more l
 ## Built With
 * HTML
 * CSS
+* blood
+* sweat
+* tears
 
 ## Website
-(COMING SOON)
+https://utilrr.github.io/refactor/
+
+## My Repository
+https://github.com/utilrr/refactor/
+
 
 ## Contribution
 Made with ❤️ by [Mark Healy]
