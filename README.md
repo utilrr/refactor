@@ -27,11 +27,6 @@ https://utilrr.github.io/refactor/
 ## My Repository
 https://github.com/utilrr/refactor/
 
-## Website (Deployed Application)
-https://utilrr.github.io/refactor/
-
-## My Repository
-https://github.com/utilrr/refactor/
 
 
 ## Contribution
