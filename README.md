@@ -27,29 +27,20 @@ https://utilrr.github.io/refactor/
 ## My Repository
 https://github.com/utilrr/refactor/
 
-<<<<<<< HEAD
-=======
 ## Website (Deployed Application)
 https://utilrr.github.io/refactor/
 
 ## My Repository
 https://github.com/utilrr/refactor/
 
->>>>>>> f24c067 (Changes to README file for resubmission)
 
 ## Contribution
 Made with ❤️ by [Mark Healy]
 ### ©️2022 
 
-<<<<<<< HEAD
-![Horiseon_top] (file:///Users/markhealy/code/github/utilrr/refactor/assets/images/Horiseon_top.png)
-![Horiseon_middle] (file:///Users/markhealy/code/github/utilrr/refactor/assets/images/Horiseon_middle.png)
-![Horiseon_bottom] (file:///Users/markhealy/code/github/utilrr/refactor/assets/images/Horiseon_bottom.png)
-=======
 ## Screen shots of the Horiseon website from top to bottom
 
 ![Screen Shot 2022-02-03 at 1 05 09 PM](https://user-images.githubusercontent.com/25494815/152402517-3c43b977-4577-4089-9898-cbb9bbe74356.png)
 ![Screen Shot 2022-02-03 at 1 05 28 PM](https://user-images.githubusercontent.com/25494815/152402537-c57513be-7b62-4a84-bacc-3e3ce1c98b4b.png)
 ![Screen Shot 2022-02-03 at 1 05 40 PM](https://user-images.githubusercontent.com/25494815/152402543-eaee1e3f-fd9f-4dc8-8aa0-70d137681852.png)
 ![Screen Shot 2022-02-03 at 1 05 49 PM](https://user-images.githubusercontent.com/25494815/152402565-f28aa143-53f8-4520-8c9d-1e6731c54bda.png)
->>>>>>> f24c067 (Changes to README file for resubmission)
